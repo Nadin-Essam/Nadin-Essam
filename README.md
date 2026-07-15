@@ -8,7 +8,7 @@
   Hey<img src="wavinghand.gif" width="30" alt="Hi">, I'm Nadin Essam!
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outward&weight=700&size=50&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Artificial%20Intelligence%20Engineer;Computer%20Vision%20%26%20NLP;Machine%20Learning%20%26%20Deep%20Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=Artificial%20Intelligence%20Engineer;Computer%20Vision%20%26%20NLP;Machine%20Learning%20%26%20Deep%20Learning)](https://git.io/typing-svg)
 
 </div>
 
